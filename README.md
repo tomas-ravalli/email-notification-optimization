@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/meeting-flow-logo.png">
+<img src="src/meeting-flow-logo.png" width="500">
 </p>
 
 # Email Notification Strategy Optimization
@@ -27,10 +27,9 @@ email-notification-optimization/
 
 </br>
 
-> [!WARNING]
+> [!Note]
 > This repository is a white-labeled version of a private case study. All brand names and personal data have been replaced with synthetic identities to protect confidentiality while preserving analytical integrity.
 
 </br>
 
 <p align="center">🌐 © 2026 t.r.</p>
-# email-notification-optimization
