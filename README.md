@@ -2,7 +2,7 @@
 <img src="./assets/meeting-flow-logo.png">
 </p>
 
-# MeetingFlow: Email Notification Strategy Optimization
+# Email Notification Strategy Optimization
 
 <p align="left">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
