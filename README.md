@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/dp-cover.jpeg">
+<img src="./assets/meeting-flow-logo.png">
 </p>
 
 # MeetingFlow: Email Notification Strategy Optimization
@@ -10,7 +10,7 @@
 
 A data-driven simulation and analytics project aimed at reducing "notification fatigue" for an enterprise meeting management platform. **Objective:** To transform a noisy, trigger-based email system into a smart, bundled workflow that reduces inbox clutter while ensuring critical updates remain real-time.
 
-The core of this work—including the data cleaning, exploratory analysis, and the bundling simulation—is contained in the primary notebook:
+The core of this work, including the data cleaning, exploratory analysis, and the bundling simulation, is contained in the primary notebook:
 
 👉 **[View the solution notebook: MeetingFlow Analysis](./notebooks/meetingflow_analysis.ipynb)**
 
