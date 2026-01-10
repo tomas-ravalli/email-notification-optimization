@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./meeting-flow-logo.png">
+<img src="src/meeting-flow-logo.png">
 </p>
 
 # Email Notification Strategy Optimization
