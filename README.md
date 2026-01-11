@@ -28,7 +28,7 @@ email-notification-optimization/
 </br>
 
 > [!Note]
-> This repository is a white-labeled version of a private case study. All brand names and personal data have been replaced with synthetic identities to protect confidentiality while preserving analytical integrity.
+> This repository is a refactored version of a private case study. All brand names and personal data have been replaced with synthetic identities to protect confidentiality while preserving analytical integrity.
 
 </br>
 
